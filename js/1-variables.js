@@ -14,4 +14,4 @@ console.log('Nuevo mensaje');
 alert("Prueba de mensaje en ventana emergente");
 
 // Mostrar una suma 29 + 6
-docuemnt.write("El resultado de la suma es: " + (29+6));
+document.write("El resultado de la suma es: " + (29+6));
