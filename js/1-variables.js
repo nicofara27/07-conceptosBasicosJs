@@ -8,10 +8,17 @@ lineas */
 document.write("<h1>Hola mundo</h1>");
 
 // Mostrar un mensaje en la consola
-console.log('Nuevo mensaje');
+console.log("Nuevo mensaje");
 
 // Mostrar un mensaje en una ventana emergente
 alert("Prueba de mensaje en ventana emergente");
 
 // Mostrar una suma 29 + 6
-document.write("El resultado de la suma es: " + (29+6));
+document.write("El resultado de la suma es: " + (29 + 6));
+
+//Crear o declalar o inicializar variables (var (no se usa) - let - const)
+
+let nombre = "Nicolas Fara";
+let comision = 7;
+
+document.write("Nombre: " + nombre);
